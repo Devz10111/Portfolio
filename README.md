@@ -1,4 +1,4 @@
-# Joshua Vargas — Portafolio de Proyectos
+# Joshua Emmanuel Vargas — Portafolio de Proyectos
 
 Desarrollador Full Stack Jr. | Angular · Python (Flask) · C# · MySQL
 
