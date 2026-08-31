@@ -57,4 +57,4 @@ Participación en actualizaciones y soporte al sistema interno de tickets de TI 
 ## 📫 Contacto
 - Email: emanuelevz61@gmail.com
 - Tel: 672 119 8487
-- LinkedIn: [*agrega tu link aquí*](https://www.linkedin.com/in/emmanuel-vargas-77367133a/)
+- LinkedIn: [*Mi perfil*](https://www.linkedin.com/in/emmanuel-vargas-77367133a/)
