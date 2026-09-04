@@ -41,7 +41,7 @@ Sistema desarrollado desde cero para la gestión de pagos y préstamos de emplea
 
 Tres sitios corporativos desarrollados para las filiales internacionales de la empresa.
 
-- 🔗 Sitio Costa Rica — *agregar link*
+- 🔗 [Sitio Costa Rica](https://quivercr.com/)
 - 🔗 [Sitio Estados Unidos](https://quivergroup.us/)
 - 🔗 [Sitio Perú](https://quiver.pe/)
 
