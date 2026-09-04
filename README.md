@@ -1,4 +1,4 @@
-# Joshua Emmanuel Vargas — Portafolio de Proyectos
+# Joshua Vargas — Portafolio de Proyectos
 
 Desarrollador Full Stack Jr. | Angular · Python (Flask) · C# · MySQL
 
@@ -13,6 +13,7 @@ Desarrollador Full Stack Jr. | Angular · Python (Flask) · C# · MySQL
 
 Sistema full stack para gestión de clientes y envío masivo de correos, con editor de correo, plantillas guardables, consulta de clientes y autenticación reforzada (hashing Argon2, prevención de inyección SQL, verificación de acceso por código enviado al correo).
 
+![Login](./screenshots/Mini%20CRM/login.png)
 ![Dashboard](./screenshots/Mini%20CRM/Dashboard.png)
 ![Redactar correo](./screenshots/Mini%20CRM/CorreosRedactar.png)
 ![Plantillas de correo](./screenshots/Mini%20CRM/CorreosPlantillas.png)
@@ -57,4 +58,4 @@ Participación en actualizaciones y soporte al sistema interno de tickets de TI 
 ## 📫 Contacto
 - Email: emanuelevz61@gmail.com
 - Tel: 672 119 8487
-- LinkedIn: [*Mi perfil*](https://www.linkedin.com/in/emmanuel-vargas-77367133a/)
+- LinkedIn: *agrega tu link aquí*
