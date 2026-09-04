@@ -13,7 +13,7 @@ Desarrollador Full Stack Jr. | Angular · Python (Flask) · C# · MySQL
 
 Sistema full stack para gestión de clientes y envío masivo de correos, con editor de correo, plantillas guardables, consulta de clientes y autenticación reforzada (hashing Argon2, prevención de inyección SQL, verificación de acceso por código enviado al correo).
 
-![Login](./screenshots/Mini%20CRM/login.png)
+![Login](./screenshots/Mini%20CRM/Login.png)
 ![Dashboard](./screenshots/Mini%20CRM/Dashboard.png)
 ![Redactar correo](./screenshots/Mini%20CRM/CorreosRedactar.png)
 ![Plantillas de correo](./screenshots/Mini%20CRM/CorreosPlantillas.png)
