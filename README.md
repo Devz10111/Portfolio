@@ -45,8 +45,8 @@ Tres sitios corporativos desarrollados para las filiales internacionales de la e
 - 🔗 [Sitio Estados Unidos](https://quivergroup.us/)
 - 🔗 [Sitio Perú](https://quiver.pe/)
 
-![Sitio web Perú](./screenshots/Pagina%20Web%20Peru/sitio-01.png)
-![Sitio web USA](./screenshots/Pagina%20web%20USA/sitio-01.png)
+![Sitio web Perú](./screenshots/Pagina%20Web%20Peru/INICIO.png)
+![Sitio web USA](./screenshots/Pagina%20web%20USA/Inicio.png)
 
 ---
 
