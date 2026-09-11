@@ -17,6 +17,8 @@ Estos son proyectos propios, de código abierto — puedes entrar al repositorio
 
 Sistema personal para llevar seguimiento de actividades, progreso de proyectos, estudio y lectura. Pensado desde el inicio con un modelo de datos genérico y extensible, y con autenticación de usuarios (login/registro) desde la base del proyecto.
 
+Link de la aplicación web : 🔗 [Login](https://project-0-rouge.vercel.app)
+
 ![Login](Login.png)
 ![Dashboard](Dashboard.png)
 
