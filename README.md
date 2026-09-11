@@ -1,6 +1,6 @@
 # Emmanuel Vargas — Portafolio de Proyectos
 
-Desarrollador Full Stack Jr. | Angular · Python (Flask) · C# · MySQL
+Software Engineer | Junior Full Stack Developer | Angular, Python (Flask), C#, MySQL | Building efficient end-to-end web applications.
 
 📍 Culiacán, Sinaloa, México · ✉️ emanuelevz61@gmail.com
 
