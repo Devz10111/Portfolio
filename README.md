@@ -64,8 +64,6 @@ Estos son proyectos propios, de código abierto — puedes entrar al repositorio
 
 Sistema personal para llevar seguimiento de actividades, progreso de proyectos, estudio y lectura. Pensado desde el inicio con un modelo de datos genérico y extensible, y con autenticación de usuarios (login/registro) desde la base del proyecto.
 
-🔗 [Ver repositorio](https://github.com/Devz10111/Project-0)
-
 **Rol:** diseño de arquitectura y desarrollo end-to-end (frontend, backend y modelo de datos).
 
 ---
