@@ -8,6 +8,19 @@ Software Engineer | Junior Full Stack Developer | Angular, Python (Flask), C#, M
 
 ---
 
+## 📁 Proyectos Personales
+
+Estos son proyectos propios, de código abierto — puedes entrar al repositorio y ver el código completo.
+
+### 📋 Activity Tracker
+**Stack:** Angular · Python/Flask
+
+Sistema personal para llevar seguimiento de actividades, progreso de proyectos, estudio y lectura. Pensado desde el inicio con un modelo de datos genérico y extensible, y con autenticación de usuarios (login/registro) desde la base del proyecto.
+
+**Rol:** diseño de arquitectura y desarrollo end-to-end (frontend, backend y modelo de datos).
+
+---
+
 ## 🖥️ Mini CRM de Gestión de Clientes
 **Stack:** Angular · Python/Flask · MySQL · Argon2
 
@@ -52,19 +65,6 @@ Tres sitios corporativos desarrollados para las filiales internacionales de la e
 
 ## 🛠️ Sistema Helpdesk de TI (colaboración)
 Participación en actualizaciones y soporte al sistema interno de tickets de TI de la empresa.
-
----
-
-## 📁 Proyectos Personales
-
-Estos son proyectos propios, de código abierto — puedes entrar al repositorio y ver el código completo.
-
-### 📋 Activity Tracker
-**Stack:** Angular · Python/Flask
-
-Sistema personal para llevar seguimiento de actividades, progreso de proyectos, estudio y lectura. Pensado desde el inicio con un modelo de datos genérico y extensible, y con autenticación de usuarios (login/registro) desde la base del proyecto.
-
-**Rol:** diseño de arquitectura y desarrollo end-to-end (frontend, backend y modelo de datos).
 
 ---
 
